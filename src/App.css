@@ -6,7 +6,11 @@
   max-width: 1280px;
   text-align: center;
 }
-
+.relative{
+  margin-top: -90px;
+  margin-left: -50px;
+  opacity: 50px;
+}
 .absolute{
   position: absolute;
   top: 50px;
@@ -43,4 +47,7 @@
   border-radius: 8px;
   cursor: pointer;
   
+}
+.movie-video{
+  margin-top: -10px;
 }

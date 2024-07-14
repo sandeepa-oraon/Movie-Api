@@ -7,7 +7,7 @@ const Main = () => {
         <>
 
             <div className="relative w-full mx-auto overflow-hidden mt-0">
-                <ReactPlayer width="100vw" height="80vh" className="w-full object-cover scale-150"  muted playing volume={0} 
+                <ReactPlayer width="105vw" height="830px" className="w-full object-cover scale-150 movie-video"  muted playing loop volume={0} 
             
                 url={youtubeTrailer} 
                 ></ReactPlayer>
