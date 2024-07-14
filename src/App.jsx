@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Nav from './components/Nav'
+import Main from './components/Main'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -13,6 +14,7 @@ function App() {
       <div className="header">
         <nav className="navbar">
           <Nav />
+          <Main />
         </nav>
       </div>
       <div className="">
