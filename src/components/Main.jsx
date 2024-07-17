@@ -18,7 +18,7 @@ const Main = () => {
                 //     playerRef.current.getInternalPlayer().playVideo();
                 // }}
                 >
-                </ReactPlayer>0
+                </ReactPlayer>
                 <div className="info ">
                     <p className='info-'>Discover about your favorite movies anytime, anywhere with our intuitive movie app! Explore a comprehensive movie database with our feature-rich movie website! Access detailed information on the latest releases, timeless classics, and indie gems.</p>
                 </div>

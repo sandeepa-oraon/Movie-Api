@@ -14,8 +14,10 @@ function App() {
       <div className="header">
         <nav className="navbar">
           <Nav />
-          <Main />
         </nav>
+        <main>
+          <Main />
+        </main>
       </div>
       <div className="">
         <h1>Movies</h1>
