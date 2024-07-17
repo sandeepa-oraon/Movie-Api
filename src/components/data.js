@@ -1,4 +1,6 @@
-const data=[
+import { useState } from "react"
+
+const data= [
         "The Shawshank Redemption",
         "The Godfather",
         "The Dark Knight",
